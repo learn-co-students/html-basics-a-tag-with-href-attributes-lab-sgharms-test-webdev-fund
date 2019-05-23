@@ -14,7 +14,7 @@ link.
 
 Open `index.html` in your text editor. Add an `a` tag with the inner text (the
 text between the `<a>` tag and the `</a>` tag) of
-`Flatiron School` anywhere in the file. Then set the `href` attribute of your
+`Flatiron School` anywhere  in the file. Then set the `href` attribute of your
 new link element to `https://flatironschool.com`.
 
 You can run the tests with this lab via `learn`. Make sure you save the file
